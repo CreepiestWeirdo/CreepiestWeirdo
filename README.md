@@ -43,7 +43,7 @@ I'm currently exploring advanced game development techniques and expanding my kn
 ## 📫 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/federicopoliseno](https://www.linkedin.com/in/federicopoliseno/)
-- **Resume**: [View My Resume](https://drive.google.com/file/d/16jwJ6lCY32W0uVeCqcScFPy7ngGDU9VN/view)
+- **Resume**: [View My Resume](https://drive.google.com/file/d/11E_796I0J1JN10KlzZ_r0tW4GM09SmF6/view?usp=sharing)
 - **Linktree**: [linktr.ee/federicopoliseno](https://linktr.ee/federicopoliseno)
 - **Email**: federicopoliseno@yahoo.com.ar
 
