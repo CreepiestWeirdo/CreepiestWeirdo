@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** and **Game D
 
 ## 🎓 Education
 
-**Associate's Degree in Game Development and Production**  
-*UTN BA (In Progress)*
-
 **Associate's Degree in Computer Programming**  
-*UTN MDP (Currently Paused)*
+*Universidad Nacional de Pilar (In Progress)*
+
+**Associate's Degree in Game Development and Production**  
+*Universidad Tecnológica Nacional - Buenos Aires (In Progress)*
 
 **Python Course**  
 *Coderhouse (52 hours, 2022)*
