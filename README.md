@@ -1,50 +1,59 @@
-# 👋 Hi, I'm Federico I. Poliseno
+👋 Hi, I'm Federico I. Poliseno
 
-Welcome to my GitHub profile! I'm a passionate **Python Developer** and **Game Developer** with a strong background in software development and education. My journey in tech began with a deep interest in creating interactive and immersive experiences, which has driven me to specialize in Python, C#, and game development using engines like Unity and Unreal Engine.
+I'm a Python Backend Developer and Game Developer based in Pilar, Buenos Aires, Argentina. 
+I'm actively looking for my first formal role in IT, bringing hands-on experience in 
+backend development, REST APIs, containerization, cloud databases, and AI integration.
 
-## 🌟 What I Do
+---
 
-- **Python Development**: Crafting efficient and scalable applications, with a focus on back-end development using Django and other frameworks.
-- **Game Development**: Designing and developing games, bringing ideas to life with Unity and Unreal Engine, and exploring new ways to enhance player experience.
-- **Education**: Teaching and mentoring aspiring developers, sharing knowledge, and fostering a community of continuous learning.
+## 🚀 What I Build
+
+- **Backend Development**: REST APIs with Python, Django and Django REST Framework
+- **Databases**: MongoDB Atlas (NoSQL), SQLite
+- **DevOps**: Docker, docker-compose, Linux containers, production deploy with Gunicorn and Render
+- **AI Integration**: Gemini API for automated infrastructure analysis
+- **Frontend**: JavaScript (Vanilla), HTML5, CSS3 — fetch API and DOM manipulation
+- **Game Development**: Unity, C#, Godot — participated in Game Jams with published projects
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** Python · JavaScript · C# · HTML · CSS  
+**Frameworks:** Django · Django REST Framework  
+**Databases:** MongoDB Atlas  
+**DevOps:** Docker · docker-compose · Linux · Gunicorn · Whitenoise · Render  
+**AI:** Gemini API · Prompt Engineering  
+**Tools:** Git · GitHub · Blender · SketchUp · Unity  
+
+---
+
+## 🌟 Featured Project
+
+### 🖥️ Infrastructure Monitor
+Real-time server monitoring dashboard with REST API, MongoDB Atlas, Docker and Gemini AI assistant.
+
+- 🔗 Live demo: https://monitor-infraestructura.onrender.com
+- 📁 Repo: https://github.com/FeDevPolis/monitor-infraestructura
+
+---
 
 ## 🎓 Education
 
-**Associate's Degree in Computer Programming**  
-*Universidad Nacional de Pilar (In Progress)*
+- **Bachelor’s Degree in Computer Science** — Universidad Nacional de Pilar *(In Progress)*  
+- **Technical Degree in Game Development** — UTN *(Incomplete, GPA 9/10)*  
 
-**Associate's Degree in Game Development and Production**  
-*Universidad Tecnológica Nacional - Buenos Aires (In Progress)*
-
-**Python Course**  
-*Coderhouse (52 hours, 2022)*
-
-**Game Development Course**  
-*eLearning Total - UTN FRRe (90 hours, 2021)*
-
-## 🔧 Technologies & Tools
-
-- **Languages**: Python, C#, SQL
-- **Frameworks**: Django
-- **Game Engines**: Unity, Unreal Engine, Godot
-- **Tools**: GitHub, Blender, Photoshop, SketchUp
-- **Other Skills**: Sound Engineering, Data Management with Excel
+---
 
 ## 🧑‍🏫 Experience
 
-- **Instructor** at IADES: Teaching Programming I and Programming Workshop II, helping students master foundational programming concepts and best practices.
-- **Tutor** at Coderhouse: Guiding students through Python and Game Development courses, ensuring they achieve their learning goals.
-- **Sound Operator** at Teatro Colón de Mar del Plata: Managed live sound operations for numerous performances, ensuring high-quality audio experiences.
+- **Tutor** at Coderhouse — Python and Game Development courses (2022-2024)
+- **Professor** at IADES — Programming I and Programming Workshop II (2024)
 
-## 🎯 What I'm Working On
-
-I'm currently exploring advanced game development techniques and expanding my knowledge in AI and machine learning to integrate these technologies into gaming.
+---
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/federicopoliseno](https://www.linkedin.com/in/federicopoliseno/)
-- **Resume**: [View My Resume](https://drive.google.com/file/d/11E_796I0J1JN10KlzZ_r0tW4GM09SmF6/view?usp=sharing)
-- **Linktree**: [linktr.ee/federicopoliseno](https://linktr.ee/federicopoliseno)
-- **Email**: federicopoliseno@yahoo.com.ar
-
-Feel free to explore my repositories, contribute, or reach out if you want to collaborate on exciting projects!
+- 💼 LinkedIn: [linkedin.com/in/federicopoliseno](https://linkedin.com/in/federicopoliseno)
+- 🌐 Portfolio: [linktr.ee/federicopoliseno](https://linktr.ee/federicopoliseno)
+- 📧 Email: federicopoliseno@yahoo.com.ar
