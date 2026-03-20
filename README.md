@@ -1,4 +1,4 @@
-👋 Hi, I'm Federico I. Poliseno
+## 👋 Hi, I'm Federico I. Poliseno
 
 I'm a Python Backend Developer and Game Developer based in Pilar, Buenos Aires, Argentina. 
 I'm actively looking for my first formal role in IT, bringing hands-on experience in 
