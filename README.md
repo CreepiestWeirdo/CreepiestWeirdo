@@ -40,8 +40,8 @@ Real-time server monitoring dashboard with REST API, MongoDB Atlas, Docker and G
 
 ## 🎓 Education
 
-- **Bachelor’s Degree in Computer Science** — Universidad Nacional de Pilar *(In Progress)*  
-- **Technical Degree in Game Development** — UTN *(Incomplete, GPA 9/10)*  
+- **Bachelor of Science in Computer Science** — Universidad Nacional de Pilar *(In Progress)*  
+- **Technical Degree in Game Development** — UTN *(One semester, GPA 9/10)*  
 
 ---
 
